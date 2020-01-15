@@ -1,0 +1,20 @@
+﻿0	6521	5555	My girlfriend is like the square root of -100	An absolute 10, but also imaginary.	0003	2175	45	0	2019	1	12	8	30	52	0	0	0
+0	8111	5555	People always ask where I got my incredibly detailed tattoo done, but they never believe me when I tell them Madrid.	Nobody expects the Spanish ink precision.	0003	3211	99	1	2019	2	2	13	45	10	3	1	0
+0	9921	5555	When I was younger, I lived in a houseboat and started to date the girl next door.	Unfortunately, we soon drifted apart.	0003	2211	10	2	2019	2	2	13	45	10	1	1	0
+0	4396	5555	I didn't think my grumpy old cat would be welcoming of the new kitten.	They feel asleep together tonight!	0004	10213	341	0	2019	3	22	17	20	59	5	4	2
+0	8461	5555	Don't procrastinate.	Hydrate.	7612	4315	99	0	2019	1	13	19	34	12	14	9	5
+1	9933	0001	This game is stupidly good.	Best $20 I ever spent.	2433	999	1	0	2019	8	6	15	21	14	0	0	0
+0	5151	4321	I wonder what they're doing in r/inthesoulstone.	Snap was undone, boys. Time to come home.	4000	210	7261	1	2019	4	6	15	24	45	0	0	0
+0	4141	0001	This entire subreddit is fasnicating.	A group of people came together and developed lore, emblems, names, and sayings for their fabricated factions, all around the premise of (1) if you pressed a button at all and (2) at what time you pressed the button. Tribalism at it's finest!	6000	5674	5674	1	2019	5	6	15	28	34	2	1	0
+0	1928	4321	My plant friend is on a diet.	They're currently having a light snack.	0003	18211	98	0	2019	1	6	15	30	22	0	4	3
+0	7001	4321	Front squats are hard.	No text.	0005	2410	99	1	2019	3	9	15	45	52	0	0	0
+0	1912	3321	When your .NET professor puts memes in your programming assignment	This is where the fun begins	5000	12310	97	0	2019	9	20	19	3	38	15	3	1	0
+0	2781	9876	Freeze, flithy reposter!	u/GallowBoob	5000	162	7	0	2019	9	19	3	31	15	0	0	0
+0	7199	1221	If you don't "believe" in vaccinations	I don't "believe" you should pass this class	0005	4021	99	0	2019	9	18	3	12	12	4	1	1
+0	5333	3232	This is just a test post	Please don't upvote	7612	9999	0	0	2019	9	17	15	45	55	13	7	3
+0	4290	0001	RED Dead Redemption 2	Cause my color is red. Get it?	6000	1	617	0	2019	9	16	11	1	11	0	0	0
+0	3991	1221	If you want the right answer to a question from the internet	Start by giving a wrong answer.	0003	716	22	0	2019	9	15	16	30	30	1	0	0
+0	4900	1111	Is this game any good?	Asking for a friend.	2433	76	1	0	2019	9	14	14	14	14	0	0	0
+0	1999	9876	Check out my tileable red circuit design!	[link removed]	2433	23	24	0	2019	9	13	13	13	13	0	0	0
+1	9199	9013	And my axe!	No text	0005	1	146	0	2019	9	12	12	12	12	0	0	0
+0	9231	0001	When an CompSci major from NIU recognizes you at a Star Wars convention	Hello there	5000	100	1	0	2019	9	11	11	11	11	3	1	0
